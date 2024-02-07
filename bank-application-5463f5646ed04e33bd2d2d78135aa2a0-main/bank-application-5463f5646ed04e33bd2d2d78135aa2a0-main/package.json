@@ -1,0 +1,11 @@
+{
+  "name": "bank-application-5463f5646ed04e33bd2d2d78135aa2a0-main",
+  "version": "1.0.0",
+  "description": "- As an user, I would like have create account facility - As an user, I would like to deposit money to my account - As an user. I would like to withdraw money from my account - As an user I would like to check balance of my account - As an user I would like to transfer money from my account to other account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
